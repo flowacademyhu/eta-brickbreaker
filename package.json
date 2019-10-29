@@ -1,0 +1,25 @@
+{
+  "name": "eta-brickbreaker",
+  "version": "0.1.0",
+  "description": "Classic Brickbreaker Game",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flowacademyhu/eta-brickbreaker.git"
+  },
+  "keywords": [
+    "game",
+    "classic"
+  ],
+  "author": "Nora Szucs, Jozsef Urban, Laszlo Csanyi",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/flowacademyhu/eta-brickbreaker/issues"
+  },
+  "homepage": "https://github.com/flowacademyhu/eta-brickbreaker#readme"
+}
