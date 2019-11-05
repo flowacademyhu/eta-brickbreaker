@@ -4,7 +4,11 @@
   "description": "Classic Brickbreaker Game",
   "main": "index.js",
   "dependencies": {
+    "axel": "0.0.3",
+    "clone": "^2.1.2",
+    "clonedeep": "^2.0.0",
     "colors": "^1.4.0",
+    "lodash.clonedeep": "^4.5.0",
     "readline-sync": "^1.4.10",
     "table": "^5.4.6"
   },
