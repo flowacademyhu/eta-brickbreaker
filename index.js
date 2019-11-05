@@ -9,9 +9,9 @@ const context = {
   clubX: 7
 };
 
-
 module.exports = {
   context: context
 };
 
-ballMove.ballMove(context)
+ballMove.ballMove()
+;
