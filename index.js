@@ -1,4 +1,5 @@
-const game = require('./lib/balltouchnew')
+const game = require('./lib/balltouchnew');
+const boards = require('./lib/boards');
 
-game.game()
+setInterval(game.main, 150, boards.gameboard)
 ;
